@@ -14,7 +14,6 @@ public class Main {
                 if (i != args.length - 1) System.out.print(", ");
             } catch (Exception e) {
                 System.out.print(e);
-
             }
         }
         System.out.print("]" + "\n");
