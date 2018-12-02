@@ -3,7 +3,7 @@ import java.util.Arrays;
 public class Main {
     public static void main(String[] args) {
 
-        // Array before sort
+        // Array before sort 
         int array[] = new int[args.length];
         System.out.print("Array before sort: {");
         for (int i = 0; i < args.length; i++) {
