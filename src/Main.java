@@ -2,7 +2,6 @@ import java.util.Arrays;
 
 public class Main {
     public static void main(String[] args) {
-
         // Array before sort
         int array[] = new int[args.length];
         System.out.print("Array before sort: {");
