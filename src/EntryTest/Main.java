@@ -1,4 +1,9 @@
+package EntryTest;
+
 import java.util.Arrays;
+
+/* Create a method that receives an array then sorts it
+*/
 
 public class Main {
     public static void main(String[] args) {
