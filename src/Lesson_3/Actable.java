@@ -2,6 +2,6 @@ package Lesson_3;
 
 public interface Actable {
     String toSpeak();
-    String toListen();
-    int toDoHomework(int x);
+    int toListen(int number);
+    int toDoHomework(int number);
 }
